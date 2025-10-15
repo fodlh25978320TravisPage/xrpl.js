@@ -24,3 +24,5 @@ Subscribe to [the **xrpl-announce** mailing list](https://groups.google.com/g/xr
 * Unit tests run in a browser and node.
 * Remove `brorand` as a dependency and use `@xrplf/isomorphic` instead.
 * Eliminates 4 runtime dependencies: `base-x`, `base64-js`, `buffer`, and `ieee754`.
+
+<!-- Auto-update: 2025-10-15T12:37:23.082010 -->
